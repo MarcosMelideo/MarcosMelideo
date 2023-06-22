@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Marcos Melideo</h1>
-<h3 align="center">Un programador web FullStack</h3>
+<h3 align="center">Programador web FullStack</h3>
 
 - 💬 Puedes preguntarme sobre **Vue.js | Laravel | JavaScript | PHP | SQL | C#**
 
